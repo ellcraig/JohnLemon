@@ -285,3 +285,75 @@ Received Import Request.
 Start importing Assets/Prefabs/JohnLemon.prefab using Guid(c80836a5e73664b589b50e1c236b12e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e006a89d00dfc34fe33e7f5aa6e32d4') in 0.033263 seconds
   Import took 0.037347 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 183.828673 seconds.
+  path: Assets/Animation/Animators
+  artifactKey: Guid(3e1ff1aa196645e4a912d1c3bb76a860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animators using Guid(3e1ff1aa196645e4a912d1c3bb76a860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbdc23832813d7d47d4bc9d27b27c90c') in 0.006100 seconds
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.091952 seconds.
+  path: Assets/Animation/Animators/New Animator Controller.controller
+  artifactKey: Guid(b5cf80f44e3a8495e82421227c8503d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animators/New Animator Controller.controller using Guid(b5cf80f44e3a8495e82421227c8503d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad9c66af1f2e7033290c195376e61c0') in 0.238989 seconds
+  Import took 0.242898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.978252 seconds.
+  path: Assets/Animation/Animators/JohnLemon.controller
+  artifactKey: Guid(b5cf80f44e3a8495e82421227c8503d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animators/JohnLemon.controller using Guid(b5cf80f44e3a8495e82421227c8503d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16da3a98ebd0b8ecd6112d4c6a2ad679') in 0.003705 seconds
+  Import took 0.007395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.863258 seconds.
+  path: Assets/Animation/Animation/Gargoyle@Idle.fbx
+  artifactKey: Guid(475d389e70692ca4abb09caca1aef9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/Gargoyle@Idle.fbx using Guid(475d389e70692ca4abb09caca1aef9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29085cd3793037bf3e6741a09c4bd1d4') in 0.040988 seconds
+  Import took 0.045142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Animation/Animation/John@Idle.fbx
+  artifactKey: Guid(873202b19b03a8a4e976f0b15d21cd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/John@Idle.fbx using Guid(873202b19b03a8a4e976f0b15d21cd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32385216d61055ec9e1c4233992cff2d') in 0.044504 seconds
+  Import took 0.048302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Animation/Animation/Ghost@Walk.fbx
+  artifactKey: Guid(2017cad317b564c409a9e5bd02341461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/Ghost@Walk.fbx using Guid(2017cad317b564c409a9e5bd02341461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9007e75197ac5125f0320b3fdc563040') in 0.036378 seconds
+  Import took 0.040087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Animation/Animation/John@Walk.fbx
+  artifactKey: Guid(da1625e6a723d1745a6ba7f6565a130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/John@Walk.fbx using Guid(da1625e6a723d1745a6ba7f6565a130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9a435d6504b82c00e9f5eee03eda3a') in 0.029223 seconds
+  Import took 0.033277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Animation/Animation/Ghost@Shower.fbx
+  artifactKey: Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/Ghost@Shower.fbx using Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fa265dda86b546009dd76c40794264') in 0.028425 seconds
+  Import took 0.032192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001116 seconds.
+  path: Assets/Animation/Animation/Ghost@Shower.fbx
+  artifactKey: Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation/Ghost@Shower.fbx using Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fa265dda86b546009dd76c40794264') in 0.030429 seconds
+  Import took 0.033976 seconds .
+
