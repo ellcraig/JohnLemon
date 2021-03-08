@@ -1316,3 +1316,176 @@ Received Import Request.
 Start importing Assets/Scripts/Observer.cs using Guid(b770f0c57234b4ce5afe32f95ce672b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e51587848db41dfb4af4836b9b9e6c') in 0.004355 seconds
   Import took 0.008853 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1572 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.0 MB.
+System memory in use after: 252.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2132.
+Total: 2.337013 ms (FindLiveObjects: 0.318930 ms CreateObjectMapping: 0.104939 ms MarkObjects: 1.841479 ms  DeleteObjects: 0.070604 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.969544 seconds.
+  path: Assets/Prefabs/Ghost.prefab
+  artifactKey: Guid(02ad6de578c9d41c987ec86e07895eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ghost.prefab using Guid(02ad6de578c9d41c987ec86e07895eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7069293d9d8e1e5b730a53632785cf72') in 0.096579 seconds
+  Import took 0.100433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.399433 seconds.
+  path: Assets/Prefabs/Gargoyle.prefab
+  artifactKey: Guid(d8dbb47b381de40c3811f0433df9ebf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gargoyle.prefab using Guid(d8dbb47b381de40c3811f0433df9ebf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206a9073be83162ec251b0151e75acdd') in 0.060104 seconds
+  Import took 0.064553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.630841 seconds.
+  path: Assets/Audio/SFXBuzzingLight.wav
+  artifactKey: Guid(86e0f005f0b8e084698c2cf61bb6c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXBuzzingLight.wav using Guid(86e0f005f0b8e084698c2cf61bb6c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1a9ae24e4436853782f2760fa4ece3') in 0.343045 seconds
+  Import took 0.346600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Audio/SFXWin.wav
+  artifactKey: Guid(c0f716a9e9ac00c438b95158ba195a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXWin.wav using Guid(c0f716a9e9ac00c438b95158ba195a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343c0cc10ba3e684cf843df6360bbf95') in 0.012784 seconds
+  Import took 0.016470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Audio/SFXFootstepsLooping.wav
+  artifactKey: Guid(07e520bb410492d47bf739846d70f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXFootstepsLooping.wav using Guid(07e520bb410492d47bf739846d70f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a1f5101058c2ee5c9b9f717dc0241f') in 0.065492 seconds
+  Import took 0.069610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Audio/SFXHouseAmbience.wav
+  artifactKey: Guid(205287722f2b6b64583b86d65fdeeb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXHouseAmbience.wav using Guid(205287722f2b6b64583b86d65fdeeb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7486641fe53cfcd81713ac8b1b44ddd') in 0.033718 seconds
+  Import took 0.037995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Audio/SFXGhostMove.wav
+  artifactKey: Guid(98ea14dfdb9dce74a976520f134fd1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXGhostMove.wav using Guid(98ea14dfdb9dce74a976520f134fd1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7324789e596b8b94618e814a68b7bd') in 0.033393 seconds
+  Import took 0.038009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Audio/SFXGameOver.wav
+  artifactKey: Guid(2789d5ce62baaba4ab1ee8bb172304a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXGameOver.wav using Guid(2789d5ce62baaba4ab1ee8bb172304a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb5c9c199561c2b8c3490217f0fcdef') in 0.011448 seconds
+  Import took 0.015283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Audio/SFXCandle.wav
+  artifactKey: Guid(dd7f55e125ee8f947b2f399e20aeec8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFXCandle.wav using Guid(dd7f55e125ee8f947b2f399e20aeec8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910a3957b44d18cf433c4f5f6115ca8e') in 0.025313 seconds
+  Import took 0.029575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.844579 seconds.
+  path: Assets/Animation/Animators/Ghost.controller
+  artifactKey: Guid(06cb0ea35781e4d09a56033053cd4b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animators/Ghost.controller using Guid(06cb0ea35781e4d09a56033053cd4b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc40081494df5a809c66695a1b2553e') in 0.005391 seconds
+  Import took 0.009113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.946751 seconds.
+  path: Assets/Prefabs/PointOfView.prefab
+  artifactKey: Guid(c473a2452caf24ad58495f663f882253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PointOfView.prefab using Guid(c473a2452caf24ad58495f663f882253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4253871627be7e5748906b2639d0035a') in 0.006749 seconds
+  Import took 0.010100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.742883 seconds.
+  path: Assets/Scripts/WaypointPatrol.cs
+  artifactKey: Guid(2321263d39a45442fa4c8ffc95769b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WaypointPatrol.cs using Guid(2321263d39a45442fa4c8ffc95769b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b572fcf787f5712ca528742dd88b9b3') in 0.002970 seconds
+  Import took 0.006696 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1573 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 257.6 MB.
+System memory in use after: 257.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2138.
+Total: 2.521219 ms (FindLiveObjects: 0.262916 ms CreateObjectMapping: 0.086211 ms MarkObjects: 2.066699 ms  DeleteObjects: 0.103195 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003426 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1573 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 257.0 MB.
+System memory in use after: 257.0 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2140.
+Total: 2.447996 ms (FindLiveObjects: 0.387996 ms CreateObjectMapping: 0.123430 ms MarkObjects: 1.858504 ms  DeleteObjects: 0.076454 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.503697 seconds.
+  path: Assets/Scripts/WaypointPatrol.cs
+  artifactKey: Guid(2321263d39a45442fa4c8ffc95769b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WaypointPatrol.cs using Guid(2321263d39a45442fa4c8ffc95769b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5988f606f418f8646e7611a010b0ddef') in 0.004296 seconds
+  Import took 0.008313 seconds .
+
